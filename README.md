@@ -3,9 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sarveshmaurya306&label=Profile%20views&color=0e75b6&style=flat" alt="sarveshmaurya306" /> </p>
 
-- 🌱 I’m currently learning **DevOps and Cloud**
+<!-- - 🌱 I’m currently learning **DevOps and Cloud** -->
 
-- 💬 Ask me about **react, node, mongoDB, postgreSQL and docker.**
+<!-- - 💬 Ask me about **react, node, mongoDB, postgreSQL and docker.** -->
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
