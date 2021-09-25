@@ -1,9 +1,7 @@
 <h1 align="center">Hi 👋, I'm Sarvesh Kumar</h1>
 <h3 align="center">A passionate MERN stack developer from India.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=sarveshmaurya306&label=Profile%20views&color=0e75b6&style=flat" alt="sarveshmaurya306" /> </p>
-
-<!-- - 🌱 I’m currently learning **DevOps and Cloud** -->
+<!-- - 🌱 I’m currently learning **DSA and Cloud** -->
 
 <!-- - 💬 Ask me about **react, node, mongoDB, postgreSQL and docker.** -->
 
