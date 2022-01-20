@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm <a href="https://linkedin.com/in/sarvesh-kumar-53986861">Sarvesh Kumar</a></h1>
+<h1 align="center">Hi 👋, I'm <a href="https://www.linkedin.com/in/sarvseesh">Sarvesh Kumar</a></h1>
 <h3 align="center">A passionate MERN stack developer && <a href="https://leetcode.com/sarveshmaurya306">leetcoder</a> from India.</h3>
 
 <h3 align="left">Languages and Tools:</h3>
