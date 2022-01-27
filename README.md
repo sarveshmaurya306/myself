@@ -6,5 +6,5 @@
 
 <p align="center"><img  src="https://github-readme-stats.vercel.app/api/top-langs?username=sarveshmaurya306&show_icons=true&locale=en&layout=compact&theme=jolly" /></p>
 <hr>
- <img src="https://activity-graph.herokuapp.com/graph?username=sarveshmaurya306&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true">
+<a href="https://activity-graph.herokuapp.com/graph?username=sarveshmaurya306&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" alt="activity graph" title="show in another tab" target="_blank" rel="noopener noreferrer"> <img src="https://activity-graph.herokuapp.com/graph?username=sarveshmaurya306&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" alt="activity graph" ></a>
 
